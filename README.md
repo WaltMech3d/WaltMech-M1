@@ -7,8 +7,8 @@
 
 
 
-<img src="https://user-images.githubusercontent.com/103261800/163980800-04f08cfe-0d46-4bbf-b811-7ae0c7ac33e0.jpg" width="75%" height="75%">
 
+<img src="https://cdn.discordapp.com/attachments/942790112029335684/965936750285434910/Untitled.png" width="75%" height="75%">
 
 `summary of the changes and improvements:` 
 - custom aluminum sheets have been removed
@@ -23,6 +23,7 @@
 - Easier to build and much more cost-efficient than the previous model
 
 <img src="https://user-images.githubusercontent.com/103261800/163989136-744e7745-5245-4b13-a169-beb1e4478846.png" width="75%" height="75%">
+
 
 
 
