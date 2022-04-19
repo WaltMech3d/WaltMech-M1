@@ -22,7 +22,7 @@
 - The number of profiles has been reduced
 - Easier to build and much more cost-efficient than the previous model
 
-<img src="https://user-images.githubusercontent.com/103261800/162564658-9e714e86-43d5-44c4-946b-33cd207ab09f.jpg" width="50%" height="50%">
+
 
 -----------------------------------------------------------------------
 Special thanks to Liam Venter for letting me use his Ventermech Stars
