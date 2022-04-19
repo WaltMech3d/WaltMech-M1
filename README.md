@@ -5,10 +5,7 @@
 - Framesize:    xyz 296x344x440 
 - [Fusion 360 viewer](https://a360.co/3rA96aa)
 
-
-
-
-<img src="https://cdn.discordapp.com/attachments/942790112029335684/965936750285434910/Untitled.png" width="75%" height="75%">
+<img src="https://cdn.discordapp.com/attachments/942790112029335684/965937632175587368/Untitled.png" width="75%" height="75%">
 
 `summary of the changes and improvements:` 
 - custom aluminum sheets have been removed
