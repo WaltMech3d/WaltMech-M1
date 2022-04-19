@@ -22,6 +22,8 @@
 - The number of profiles has been reduced
 - Easier to build and much more cost-efficient than the previous model
 
+<img src="https://user-images.githubusercontent.com/103261800/163989136-744e7745-5245-4b13-a169-beb1e4478846.png" width="75%" height="75%">
+
 
 
 -----------------------------------------------------------------------
