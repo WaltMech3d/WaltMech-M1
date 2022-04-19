@@ -1,6 +1,6 @@
 # `M1`
 
-`The WaltMech M1 is the successor project of the MouseRig 
+`The WaltMech M1 is the successor project of the MouseRig
 - print volume: 150x150x150
 - Framesize:    xyz 296x344x440 
 - [Fusion 360 viewer](https://a360.co/3rA96aa)
