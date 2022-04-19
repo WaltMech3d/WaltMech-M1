@@ -3,6 +3,7 @@
 `The WaltMech M1 is the successor project of the MouseRig 
 - print volume: 150x150x150
 - Framesize:    xyz 296x344x440 
+- [Fusion 360 viewer](https://a360.co/3rA96aa)
 
 <img src="https://user-images.githubusercontent.com/103261800/163038230-5aa86805-57f0-4f0e-a7d5-fbe5ae32ea9b.jpg" width="50%" height="50%">
 
@@ -20,7 +21,7 @@
 
 <img src="https://user-images.githubusercontent.com/103261800/162564658-9e714e86-43d5-44c4-946b-33cd207ab09f.jpg" width="50%" height="50%">
 
-
+-----------------------------------------------------------------------
 Special thanks to Liam Venter for letting me use his Ventermech Stars
 
 [fastbikegear.co.nz](https://www.fastbikegear.co.nz/index.php?main_page=product_info&cPath=3717&products_id=12371)
