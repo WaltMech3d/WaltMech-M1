@@ -5,3 +5,5 @@ Drawings for:
 - Bottom Panel
 - Back Panel Top
 - Aluminium Plate for heated bed
+
+The rest of the panels are rectangular with no cutouts. the dimensions can be taken from the CAD model or the BOM
