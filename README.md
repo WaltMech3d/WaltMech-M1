@@ -1,7 +1,6 @@
-# `V2_`
+# `M1`
 
-`The V2 is the successor project of the MouseRig and currently has no final project name`.
-
+`The WaltMech M1 is the successor project of the MouseRig 
 - print volume: 150x150x150
 - Framesize:    xyz 296x344x440 
 
