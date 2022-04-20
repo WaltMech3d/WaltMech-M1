@@ -4,6 +4,7 @@
 - print volume: 150x150x150
 - Framesize:    xyz 296x344x440 
 - [Fusion 360 viewer](https://a360.co/3rA96aa)
+- [Eva Parts](https://main.eva-3d.page/)
 
 <img src="https://cdn.discordapp.com/attachments/942790112029335684/965937632175587368/Untitled.png" width="75%" height="75%">
 
